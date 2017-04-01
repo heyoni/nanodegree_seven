@@ -1,4 +1,4 @@
-# Catalog Server
+# Catalog Server (currently down)
 
 - ip: 107.21.67.188
 - domain name: ec2-107-21-67-188.compute-1.amazonaws.com
